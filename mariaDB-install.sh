@@ -1,6 +1,7 @@
 #!/bin/bash
 # This Script automates the MariaDB Installation & Configuration Process needed for CM
 clear
+###
 #ahoj
 # Install and Start MariaDB
 echo "Installing MariaDB...."
