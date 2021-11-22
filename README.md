@@ -1,0 +1,1 @@
+# centos-MariaDB-install-script
